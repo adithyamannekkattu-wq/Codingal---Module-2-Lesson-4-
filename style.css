@@ -1,0 +1,55 @@
+.title{
+    font-size:30px;
+    color:rgb(255, 55, 0)
+}
+
+body{
+    text-align:center;
+    background-color: bisque;
+}
+
+.choice{
+    font-size:25px;
+    color:rgb(246, 158, 7);
+
+}
+
+.food:hover{
+        background:rgb(255, 106, 0);
+        color:white;
+        transform:rotate(-5deg);
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.food{
+    font-size:25px
+}
+
+.back{
+    background-color: rgb(222, 190, 151);
+}
+
+.quote ::first-letter{
+    font-size:40px;
+    color:rgb(231, 91, 16)
+}
+
+.quote{
+    font-size:25px;
+    color:rgb(42, 165, 126)
+}
+
+#order:hover{
+    background:rgb(244, 8, 55);
+    color:rgb(17, 216, 216)
+}
+
+#order{
+    font-size:30px;
+    margin-right:20px
+}
+
+#see{
+    font-size:30px;
+    margin-right:20px;
+}
